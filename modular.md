@@ -43,7 +43,7 @@ Fermat’s theorem বলে:
 
 b^(m - 1) = 1 (mod m)
 
-b^(m - 2) = b^1 (mod m)
+b^(m - 2) = b-^1 (mod m)
 
 (a / b) % m = b^-1 % m = pow(b, m- 2)
 
